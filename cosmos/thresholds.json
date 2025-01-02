@@ -1,0 +1,9 @@
+{
+    "userId": "User1",
+    "globalThreshold": 1000,
+    "categoryThresholds": {
+        "Food": 300,
+        "Shopping": 500,
+        "Entertainment": 200
+    }
+}

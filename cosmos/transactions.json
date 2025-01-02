@@ -1,0 +1,7 @@
+{
+    "id": "txn1",
+    "userId": "User1",
+    "amount": 200,
+    "category": "Food",
+    "timestamp": "2025-01-02T12:00:00Z"
+}

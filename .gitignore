@@ -1,0 +1,7 @@
+.venv
+.vscode/*
+__pycache__/*
+*.pyc
+__blobstorage_*
+__queuestorage_*
+__azurite*
